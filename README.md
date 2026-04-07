@@ -27,4 +27,4 @@ Edges capture structural information that improves emotion detection performance
 2. Run notebook.ipynb
 
 ## Author
-Your Name
+Murali Samenu 
