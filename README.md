@@ -18,11 +18,6 @@ This project explores combining real facial images with edge-based representatio
 ## Key Insight
 Edges capture structural information that improves emotion detection performance.
 
-## Visual Results
-![Comparison](images/comparison.png)
-![Accuracy](images/accuracy.png)
-![Confusion Matrix](images/confusion_matrix.png)
-
 ## Datasets
 - Real Faces: [Kaggle Dataset Link]
 - Cartoon Edges: [Your Dataset Link]
